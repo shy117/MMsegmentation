@@ -1,5 +1,3 @@
-# MMsegmentation
-MMsegmentation车道线检测
 # MMsegmentation车道线检测
 
 ## 一. MMsegmentation环境部署
